@@ -15,7 +15,7 @@
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="200px" align="right" />
 
 - 🎓 B.Tech IT student at **Alliance University** (2022–2026) 
-- 🌐 Currently diving deep into **Cloud Computing, DevOps & Full Stack Development**
+- 🌐 Currently diving deep into **Core Java,Cloud Computing, DevOps & Full Stack Development**
 - 💻 Experienced with projects involving **Django, React, Azure, Data Analytics, and AI integrations**
 - 🧠 Always learning something new — currently exploring **AI + Cloud**, and building **real-time web platforms**
 - 🚀 Participated in national-level hackathons and built live applications
